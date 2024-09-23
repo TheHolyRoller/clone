@@ -1,0 +1,326 @@
+
+[
+
+    {
+        "title": "Tech Innovators",
+        "address": "123 Tech Lane, Silicon Valley, CA 94043",
+        "phone": "(123) 456-7890",
+        "email": "info@techinnovators.com"
+    },
+    {
+        "title": "Green Solutions",
+        "address": "456 Eco St, San Francisco, CA 94107",
+        "phone": "(234) 567-8901",
+        "email": "contact@greensolutions.com"
+    },
+    {
+        "title": "HealthPlus Inc.",
+        "address": "789 Health Blvd, New York, NY 10001",
+        "phone": "(345) 678-9012"
+    },
+    {
+        "title": "Creative Designs",
+        "address": "101 Art Ave, Los Angeles, CA 90001",
+        "phone": "(456) 789-0123",
+        "email": "hello@creativedesigns.com"
+    },
+    {
+        "title": "Global Enterprises",
+        "address": "202 Global Way, Chicago, IL 60601",
+        "phone": "(567) 890-1234"
+    },
+    {
+        "title": "Smart Marketing",
+        "address": "303 Marketing Rd, Boston, MA 02108",
+        "phone": "(678) 901-2345",
+        "email": "info@smartmarketing.com"
+    },
+    {
+        "title": "Eco Builders",
+        "address": "404 Green Way, Seattle, WA 98101",
+        "phone": "(789) 012-3456",
+        "email": "support@ecobuilders.com"
+    },
+    {
+        "title": "Future Finance",
+        "address": "505 Finance St, Miami, FL 33101",
+        "phone": "(890) 123-4567"
+    },
+    {
+        "title": "Innovation Labs",
+        "address": "606 Innovation Dr, Austin, TX 78701",
+        "phone": "(901) 234-5678",
+        "email": "contact@innovationlabs.com"
+    },
+    {
+        "title": "Cloud Services",
+        "address": "707 Cloud Ct, Denver, CO 80201",
+        "phone": "(012) 345-6789"
+    },
+    {
+        "title": "Data Analytics Co.",
+        "address": "808 Data Blvd, Atlanta, GA 30301",
+        "phone": "(123) 456-7891",
+        "email": "info@dataanalytics.com"
+    },
+    {
+        "title": "Retail Solutions",
+        "address": "909 Retail Rd, Dallas, TX 75201",
+        "phone": "(234) 567-8902"
+    },
+    {
+        "title": "Mobile App Devs",
+        "address": "111 App St, San Diego, CA 92101",
+        "phone": "(345) 678-9013",
+        "email": "support@mobileappdevs.com"
+    },
+    {
+        "title": "E-Commerce Hub",
+        "address": "222 Commerce Dr, Orlando, FL 32801",
+        "phone": "(456) 789-0124",
+        "email": "contact@ecommercehub.com"
+    },
+    {
+        "title": "FinTech Innovations",
+        "address": "333 FinTech Ave, Philadelphia, PA 19101",
+        "phone": "(567) 890-1235"
+    },
+    {
+        "title": "Travel Experts",
+        "address": "444 Travel Rd, Las Vegas, NV 89101",
+        "phone": "(678) 901-2346",
+        "email": "info@travelexperts.com"
+    },
+    {
+        "title": "Real Estate Advisors",
+        "address": "555 Realty Blvd, Phoenix, AZ 85001",
+        "phone": "(789) 012-3457"
+    },
+    {
+        "title": "Marketing Gurus",
+        "address": "666 Marketing St, Portland, OR 97201",
+        "phone": "(890) 123-4568",
+        "email": "hello@marketinggurus.com"
+    },
+    {
+        "title": "HR Solutions",
+        "address": "777 HR Way, Nashville, TN 37201",
+        "phone": "(901) 234-5679"
+    },
+    {
+        "title": "Construction Pros",
+        "address": "888 Builder Ave, Indianapolis, IN 46201",
+        "phone": "(012) 345-6780",
+        "email": "info@constructionpros.com"
+    },
+    {
+        "title": "Foodie Delights",
+        "address": "999 Culinary Ct, New Orleans, LA 70112",
+        "phone": "(123) 456-7892"
+    },
+    {
+        "title": "Event Planners",
+        "address": "101 Event St, Baltimore, MD 21201",
+        "phone": "(234) 567-8903",
+        "email": "contact@eventplanners.com"
+    },
+    {
+        "title": "Pet Care Co.",
+        "address": "202 Pet Blvd, San Jose, CA 95101",
+        "phone": "(345) 678-9014"
+    },
+    {
+        "title": "Home Decorators",
+        "address": "303 Decor St, Atlanta, GA 30302",
+        "phone": "(456) 789-0125",
+        "email": "info@homedecorators.com"
+    },
+    {
+        "title": "Security Systems",
+        "address": "404 Secure Way, Charlotte, NC 28201",
+        "phone": "(567) 890-1236"
+    },
+    {
+        "title": "Virtual Assistants",
+        "address": "505 Assist Ave, Salt Lake City, UT 84101",
+        "phone": "(678) 901-2347",
+        "email": "support@virtualassistants.com"
+    },
+    {
+        "title": "Software Solutions",
+        "address": "606 Software Dr, Raleigh, NC 27601",
+        "phone": "(789) 012-3458",
+        "email": "info@softwaresolutions.com"
+    },
+    {
+        "title": "Consulting Services",
+        "address": "707 Consulting Ct, Detroit, MI 48201",
+        "phone": "(890) 123-4569"
+    },
+    {
+        "title": "Fashion Retailers",
+        "address": "808 Fashion St, Milwaukee, WI 53201",
+        "phone": "(901) 234-5670",
+        "email": "hello@fashionretailers.com"
+    },
+    {
+        "title": "Graphic Design Co.",
+        "address": "909 Graphic Ave, Kansas City, MO 64101",
+        "phone": "(012) 345-6781"
+    },
+    {
+        "title": "Insurance Agency",
+        "address": "111 Insurance Blvd, Omaha, NE 68101",
+        "phone": "(123) 456-7893",
+        "email": "contact@insuranceagency.com"
+    },
+    {
+        "title": "Telecom Solutions",
+        "address": "222 Telecom Dr, Virginia Beach, VA 23451",
+        "phone": "(234) 567-8904"
+    },
+    {
+        "title": "Construction Co.",
+        "address": "333 Construction St, Jacksonville, FL 32201",
+        "phone": "(345) 678-9015",
+        "email": "info@constructionco.com"
+    },
+    {
+        "title": "Cleaning Services",
+        "address": "444 Cleaning Ave, Tampa, FL 33601",
+        "phone": "(456) 789-0126"
+    },
+    {
+        "title": "Luxury Rentals",
+        "address": "555 Rentals Blvd, Orlando, FL 32803",
+        "phone": "(567) 890-1237",
+        "email": "support@luxuryrentals.com"
+    },
+    {
+        "title": "Fitness Centers",
+        "address": "666 Fitness St, Tucson, AZ 85701",
+        "phone": "(678) 901-2348"
+    },
+    {
+        "title": "Nutritional Experts",
+        "address": "777 Nutrition Ave, Albuquerque, NM 87101",
+        "phone": "(789) 012-3459",
+        "email": "info@nutritionalexperts.com"
+    },
+    {
+        "title": "Digital Marketing",
+        "address": "888 Digital Dr, Honolulu, HI 96801",
+        "phone": "(890) 123-4560"
+    },
+    {
+        "title": "Beverage Suppliers",
+        "address": "999 Beverage Blvd, Anchorage, AK 99501",
+        "phone": "(901) 234-5671",
+        "email": "contact@beveragesuppliers.com"
+    },
+    {
+        "title": "Logistics Co.",
+        "address": "101 Logistics St, Little Rock, AR 72201",
+        "phone": "(012) 345-6782"
+    },
+    {
+        "title": "Media Productions",
+        "address": "202 Media Ave, Baton Rouge, LA 70801",
+        "phone": "(123) 456-7894",
+        "email": "info@mediaproductions.com"
+    },
+    {
+    "title": "Home Security",
+    "address": "303 Security Rd, Memphis, TN 38101",
+    "phone": "(234) 567-8905",
+    "email": "contact@homesecurity.com"
+},
+{
+    "title": "Travel Agency",
+    "address": "404 Travel Blvd, Richmond, VA 23220",
+    "phone": "(345) 678-9016"
+},
+{
+    "title": "Event Services",
+    "address": "505 Event St, Columbus, OH 43215",
+    "phone": "(456) 789-0127",
+    "email": "info@eventservices.com"
+},
+{
+    "title": "Cleaning Experts",
+    "address": "606 Clean St, Fargo, ND 58102",
+    "phone": "(567) 890-1238"
+},
+{
+    "title": "Pet Grooming",
+    "address": "707 Grooming Rd, Charleston, SC 29401",
+    "phone": "(678) 901-2349",
+    "email": "hello@petgrooming.com"
+},
+{
+    "title": "Graphic Artists",
+    "address": "808 Art Ave, Boise, ID 83701",
+    "phone": "(789) 012-3460"
+},
+{
+    "title": "Interior Designers",
+    "address": "909 Interior Blvd, Des Moines, IA 50309",
+    "phone": "(890) 123-4561",
+    "email": "contact@interiordesigners.com"
+},
+{
+    "title": "Web Development",
+    "address": "111 Web Way, Madison, WI 53703",
+    "phone": "(901) 234-5672"
+},
+{
+    "title": "Photography Co.",
+    "address": "222 Photo St, Springfield, MO 65801",
+    "phone": "(012) 345-6783",
+    "email": "info@photographyco.com"
+},
+{
+    "title": "Real Estate Group",
+    "address": "333 Realty Way, Salt Lake City, UT 84111",
+    "phone": "(123) 456-7895"
+},
+{
+    "title": "Music Studios",
+    "address": "444 Music Ave, Wilmington, DE 19801",
+    "phone": "(234) 567-8906",
+    "email": "contact@musicstudios.com"
+},
+{
+    "title": "Online Education",
+    "address": "555 Learn St, Boston, MA 02109",
+    "phone": "(345) 678-9017"
+},
+{
+    "title": "Social Media Agency",
+    "address": "666 Social St, Nashville, TN 37203",
+    "phone": "(456) 789-0128",
+    "email": "info@socialmediaagency.com"
+},
+{
+    "title": "Hardware Supplies",
+    "address": "777 Hardware Blvd, Orlando, FL 32805",
+    "phone": "(567) 890-1239"
+},
+{
+    "title": "Catering Services",
+    "address": "888 Catering Ct, Phoenix, AZ 85003",
+    "phone": "(678) 901-2350",
+    "email": "contact@cateringservices.com"
+},
+{
+    "title": "Home Improvement",
+    "address": "999 Improve St, Dallas, TX 75208",
+    "phone": "(789) 012-3461"
+},
+{
+    "title": "Financial Advisors",
+    "address": "101 Finance Rd, Seattle, WA 98101",
+    "phone": "(890) 123-4562",
+    "email": "info@financialadvisors.com"
+}
+]
