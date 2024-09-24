@@ -9,17 +9,17 @@ const Card = ({company}) =>{
 
     return(
 
-
-        <div id='mainCardContainer' >
+        // Add in the classes to make this query work as if it was on yellow pages 
+        <div id='mainCardContainer' class="box-company-search overout" >
 
         <div id='cardContainer'>
 
-        <div  id='titleContainer'>
+        <div  id='titleContainer' class="descr-box-company-search">
         {company.title}
 
         </div>
 
-        <div id='addressContainer'>
+        <div id='addressContainer' class="ico-box-company-search">
 
         {company.address}
 
@@ -27,13 +27,13 @@ const Card = ({company}) =>{
 
         </div>
 
-        <div id='phoneContainer'>
+        <div id='phoneContainer' class="ico-box-company-search">
 
         {company.phone} 
 
         </div>
 
-        <div id='emailContainer' >
+        <div id='emailContainer' class="ico-box-company-search" >
 
         {company.email}
 
